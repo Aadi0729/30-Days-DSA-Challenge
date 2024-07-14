@@ -1,5 +1,5 @@
 🚀🌟​🇪​​🇽​​🇨​​🇮​​🇹​​🇪​​🇩​ ​🇹​​🇴​ ​🇪​​🇲​​🇧​​🇦​​🇷​​🇰​ ​🇴​​🇳​ ​🇦​ 4️⃣5️⃣-​🇩​​🇦​​🇾​ ​🇩​​🇸​​🇦​ ​🇸​​🇰​​🇮​​🇱​​🇱​-​🇸​​🇭​​🇦​​🇷​​🇵​​🇪​​🇳​​🇮​​🇳​​🇬​ ​🇨​​🇭​​🇦​​🇱​​🇱​​🇪​​🇳​​🇬​​🇪​❗🌟🚀
-─── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ───── ⋆⋅☆⋅⋆ ──
+
 𝗛𝗶, 𝗚𝗶𝘁𝗵𝘂𝗯 𝗙𝗮𝗺𝗶𝗹𝘆!🤝,
 
 I'm thrilled to share that I'm starting a 45-day journey to sharpen my Data Structures and Algorithms (DSA) skills! 💻📚 This challenge is all about pushing my limits, enhancing my problem-solving skills, and preparing myself for the tech industry.
@@ -14,7 +14,6 @@ DSA is the backbone of problem-solving in tech. By enhancing my skills, I aim to
 🎯Strengthen algorithmic proficiency
 🎯Learn to write optimized and high-performance code
 🎯Track my progress and learn from my mistakes
-── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── .✦── 
 
 💡 𝗝𝗼𝗶𝗻 𝗠𝗲!
 I invite my connections and fellow learners to join me on this journey. Let's motivate each other, share resources, and discuss solutions. Feel free to connect and share your own DSA experiences or tips!
