@@ -48,7 +48,9 @@ nums is sorted in non-decreasing order.
 
 class Solution {
 public:
+
     int removeDuplicates(vector<int>& nums) {
+    
         // If the array is empty, return 0
         if (nums.empty()) return 0;
         
