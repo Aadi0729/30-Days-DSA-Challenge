@@ -32,6 +32,7 @@ Follow-up: Can you come up with an algorithm that is less than O(n2) time comple
 ## Solution
 
 class Solution {
+
 public:
 
     vector<int> twoSum(vector<int>& nums, int target) {
@@ -88,6 +89,7 @@ If no such pair is found after examining all pairs in the array, it returns an e
 ## Optimized solution:
 
 class Solution {
+
 public:
 
     vector<int> twoSum(vector<int>& nums, int target) {
