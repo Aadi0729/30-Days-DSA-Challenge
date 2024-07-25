@@ -32,13 +32,13 @@ Follow up: If you have figured out the O(n) solution, try coding another solutio
 
 class Solution 
 {
-
 public:
+
     int maxSubArray(vector<int>& nums) {
         return maxSubArrayDivideAndConquer(nums, 0, nums.size() - 1);
     }
-
 private:
+
     int maxCrossingSum(const vector<int>& nums, int left, int mid, int right) {
         int leftSum = INT_MIN;
         int sum = 0;
@@ -48,7 +48,7 @@ private:
                 leftSum = sum;
             }
         }
-
+        
         int rightSum = INT_MIN;
         sum = 0;
         for (int i = mid + 1; i <= right; ++i) {
