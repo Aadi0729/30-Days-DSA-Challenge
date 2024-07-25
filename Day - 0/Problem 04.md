@@ -28,8 +28,11 @@ Follow up: Can you solve the problem in O(1) extra space complexity? (The output
 
 ## Solution
 
-class Solution {
+class Solution 
+{
+
 public:
+
     vector<int> productExceptSelf(vector<int>& nums) {
         int n = nums.size();
         vector<int> left(n);
