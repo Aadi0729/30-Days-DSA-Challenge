@@ -25,6 +25,7 @@ Constraints:
 ## Solution
 
 class Solution 
+
 {
 public:
 
